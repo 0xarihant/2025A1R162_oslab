@@ -11,6 +11,9 @@ Welcome to my Operating Systems Lab repository! This repository serves as a reco
 | 03 | I/O Redirection, Pipes, Grep, Sed, and Find Commands | [View Files](./Experiment-03-IO-Redirection-Pipes-Grep-Sed-Find/) |
 | 04 | Process Management and Text Editors (Vi & Nano) | [View Files](./Experiment-04-Process-Management-Vi-Nano/) |
 | 05 | Command-Line Arguments and File & Directory Manipulation | [View Files](./Experiment-05-Command-Line-Arguments-File-Directory-Manipulation/) |
+| 07 | String Operations Using Shell Scripts and C Programs | [View Files](./Experiment-07-string-operations-using-shell-script-and-c-program/) |
+| 09 | Process Creation and Termination Using C | [View Files](./Experiment-09-Process-Creation-and-Termination-Using-C/) |
+| 10 | Child Process | [View Files](./Experiment-10-Child-Process/) |
 
 ## 🗂️ Repository Structure
 
@@ -43,7 +46,25 @@ OS-Lab-Experiments/
 │   └── screenshots/
 │       └── .gitkeep
 │
-└── Experiment-05-Command-Line-Arguments-File-Directory-Manipulation/
+├── Experiment-05-Command-Line-Arguments-File-Directory-Manipulation/
+│   ├── README.md
+│   ├── program.txt
+│   └── screenshots/
+│       └── .gitkeep
+│
+├── Experiment-07-string-operations-using-shell-script-and-c-program/
+│   ├── README.md
+│   ├── program.txt
+│   └── screenshots/
+│       └── .gitkeep
+│
+├── Experiment-09-Process-Creation-and-Termination-Using-C/
+│   ├── README.md
+│   ├── program.txt
+│   └── screenshots/
+│       └── .gitkeep
+│
+└── Experiment-10-Child-Process/
     ├── README.md
     ├── program.txt
     └── screenshots/
@@ -67,12 +88,12 @@ Each experiment has its own directory containing the necessary documentation and
 
 ## 📝 Notes
 
-- New experiments will be added as the laboratory course progresses.
+- Additional experiments will be included as the laboratory course progresses.
 - Practical documentation and screenshots will be maintained in their respective folders.
 - Folder names follow a consistent numbering system for easier navigation.
 
 ## 👨‍💻 About
 
-This repository is maintained as a personal academic record of Operating Systems laboratory work, covering Linux commands, process handling, file management, and other fundamental OS concepts.
+This repository is maintained as a personal academic record of Operating Systems laboratory work, covering Linux commands, shell scripting, process management, file manipulation, and fundamental OS concepts.
 
 **Course:** Operating Systems Laboratory
