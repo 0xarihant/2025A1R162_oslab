@@ -11,6 +11,7 @@ Welcome to my Operating Systems Lab repository! This repository serves as a reco
 | 03 | I/O Redirection, Pipes, Grep, Sed, and Find Commands | [View Files](./Experiment-03-IO-Redirection-Pipes-Grep-Sed-Find/) |
 | 04 | Process Management and Text Editors (Vi & Nano) | [View Files](./Experiment-04-Process-Management-Vi-Nano/) |
 | 05 | Command-Line Arguments and File & Directory Manipulation | [View Files](./Experiment-05-Command-Line-Arguments-File-Directory-Manipulation/) |
+| 06 | Shell Scripting for User, Line, and Text Processing | [View Files](./Experiment-06-shell-script-user-line-and-Text-Processing/) |
 | 07 | String Operations Using Shell Scripts and C Programs | [View Files](./Experiment-07-string-operations-using-shell-script-and-c-program/) |
 | 09 | Process Creation and Termination Using C | [View Files](./Experiment-09-Process-Creation-and-Termination-Using-C/) |
 | 10 | Child Process | [View Files](./Experiment-10-Child-Process/) |
@@ -23,53 +24,17 @@ OS-Lab-Experiments/
 ├── README.md
 │
 ├── Experiment-01-Install-Ubuntu-VM/
-│   ├── README.md
-│   ├── program.txt
-│   └── screenshots/
-│       └── .gitkeep
-│
 ├── Experiment-02-Basic-Shell-Commands/
-│   ├── README.md
-│   ├── program.txt
-│   └── screenshots/
-│       └── .gitkeep
-│
 ├── Experiment-03-IO-Redirection-Pipes-Grep-Sed-Find/
-│   ├── README.md
-│   ├── program.txt
-│   └── screenshots/
-│       └── .gitkeep
-│
 ├── Experiment-04-Process-Management-Vi-Nano/
-│   ├── README.md
-│   ├── program.txt
-│   └── screenshots/
-│       └── .gitkeep
-│
 ├── Experiment-05-Command-Line-Arguments-File-Directory-Manipulation/
-│   ├── README.md
-│   ├── program.txt
-│   └── screenshots/
-│       └── .gitkeep
-│
+├── Experiment-06-shell-script-user-line-and-Text-Processing/
 ├── Experiment-07-string-operations-using-shell-script-and-c-program/
-│   ├── README.md
-│   ├── program.txt
-│   └── screenshots/
-│       └── .gitkeep
-│
 ├── Experiment-09-Process-Creation-and-Termination-Using-C/
-│   ├── README.md
-│   ├── program.txt
-│   └── screenshots/
-│       └── .gitkeep
-│
 └── Experiment-10-Child-Process/
-    ├── README.md
-    ├── program.txt
-    └── screenshots/
-        └── .gitkeep
 ```
+
+*Each experiment folder contains its own README, program file, and screenshots directory.*
 
 ## 📖 Repository Guide
 
